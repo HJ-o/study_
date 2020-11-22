@@ -14,3 +14,7 @@
 
 ### Guestbook
 프로젝트 B 방명록 만들기 https://www.edwith.org/boostcourse-web-be/joinLectures/28366
+
+### Reservation  
+프로젝트 C 예약 : 메인, 상세보기 관련 web API 만들기 https://www.edwith.org/boostcourse-web-be/project/208/content/167#summary  
+> 참고 사항: parameter의 'start'는 구현하지 않음
